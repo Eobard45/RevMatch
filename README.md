@@ -1,6 +1,6 @@
-# LKBM App 🚗
+# RevMatch App 🚗
 
-This is the official GitHub repo for the LKBM Car Club App — a system built to help track events, members, rolling shots, and social interactions between club members.
+This is the official GitHub repo for the RevMatch Car Club App — a system built to help track events, members, rolling shots, and social interactions between club members.
 
 ## 📦 Features (Planned or Active)
 - Team messaging
